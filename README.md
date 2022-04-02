@@ -1,8 +1,7 @@
 ### Hi there 👋
 ### I'm JiHyeon 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=spy03128)](https://solved.ac/spy03128)
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spy03128)](https://solved.ac/spy03128)
 <!--
 **spy03128/spy03128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
