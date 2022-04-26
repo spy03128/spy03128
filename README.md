@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Hi,%20I'm%20jihyeon&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi,%20I'm%20jihyeon&fontSize=50)
 
 
 
@@ -20,11 +20,11 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spy03128)](https://solved.ac/spy03128)
-![spy03128's GitHub stats](https://github-readme-stats.vercel.app/api?username=spy03128&show_icons=true&theme=dracula)   
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=spy03128&theme=warm)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spy03128)](https://github.com/spy03128/github-readme-stats)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=spy03128&theme=warm)
+![spy03128's GitHub stats](https://github-readme-stats.vercel.app/api?username=spy03128&show_icons=true&theme=dracula)
 
 
 
