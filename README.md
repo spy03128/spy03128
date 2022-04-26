@@ -1,28 +1,33 @@
-### Hi there 👋
-### I'm JiHyeon 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Hi,%20I'm%20jihyeon&fontSize=70)
+
+
+
+<!-- **spy03128/spy03128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+**Who I am ?**
+
+- 🔭 Notion : https://noisy-windflower-17d.notion.site/5ca9dffac80a44cea0350694b1a125ce
+- 👯 Tistory : https://jihyeon-coding-diary.tistory.com/
+- 🤔 Blog : https://blog.naver.com/spy03128
+- 💬 E-mail : spy03128@gmail.com
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... 
+ -->
+
+
+
+
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spy03128)](https://solved.ac/spy03128)
 ![spy03128's GitHub stats](https://github-readme-stats.vercel.app/api?username=spy03128&show_icons=true&theme=dracula)   
 
-<!--
-**spy03128/spy03128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spy03128)](https://github.com/spy03128/github-readme-stats)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=spy03128&theme=warm)
 
 
-- 📫 How to reach me: <br />
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 
 - 💻 My Tech Skills: <br />
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
