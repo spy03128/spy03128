@@ -2,8 +2,6 @@
 
 
 
-<!-- **spy03128/spy03128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 **Who I am ?**
 
 - 🔭 Notion : https://noisy-windflower-17d.notion.site/5ca9dffac80a44cea0350694b1a125ce
