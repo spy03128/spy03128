@@ -45,3 +45,34 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
+
+---
+### 💻 My project
+- 🌎 [지라포밍](https://github.com/spy03128/ZirraForming)(2022.08.22 ~ 2022.10.07)
+  - 환경오염에 대한 경각심을 전달하기 위한 빅데이터 분산처리 프로젝트
+  - SSAFY 7기 특화프로젝트 우수상
+
+- 🥦 [Braw!Kurly](https://github.com/Brawkurly/Brawkurly)(2022.08.19 ~ 2022.08.24)
+  - 제 1회 입사 연계 특전 온라인 해커톤 KURLY HACK FESTA 2022에 참여한 상품 적정가 모니터링 서비스
+  - KURLY HACK FESTA 2022 본선 진출
+  
+- 🐶 [애지멍지](https://github.com/spy03128/AeJiMeongJi)(2022.07.04 ~ 2022.08.19)
+  - 반려동물을 키우는 보호자들을 위한 반려동물 케어 앱
+  - SSAFY 7기 공통프로젝트 우수상(2등)
+
+- 🏡 [HappyHouse](https://github.com/HappyHouse3)(2022.05.19 ~ 2022.05.26)
+  - 반려동물을 키우는 보호자들을 위한 반려동물 케어 앱
+  - SSAFY 7기 관통프로젝트 최우수상
+  
+- 🖥 [SAMMaru 동아리 홈페이지 리뉴얼](https://github.com/SAMMaru5)(2022.01 ~ 2022.10)
+  - 충북대학교 SAMMaru 동아리 홈페이지 리뉴얼 프로젝트
+  - 실제 운영중인 동아리 홈페이지
+  
+- 📑 [SoTong](https://github.com/SoftTong)(2021.07 ~ 2021.12)
+  - 충북대학교 SW중심사업단 프로그램 신청 및 보고서 제출 통합 서비스
+
+- 😷 [WIWY](https://github.com/W-I-W-Y)(2021.01 ~ 2021.10)
+  - 코로나19 통합 정보 제공 및 커뮤니티 서비스
+  - 충북대학교 졸업작품 전시회 출품
+
+마지막 수정일 : 2022.10.13
