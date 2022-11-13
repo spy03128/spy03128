@@ -35,8 +35,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)<br />
-![Kotlin](https://img.shields.io/badge/kotiln-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=#7F52FF")
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Kotlin](https://img.shields.io/badge/kotiln-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=#7F52FF")<br />
 
 
 - 🌱 I’m currently learning ... <br/>
