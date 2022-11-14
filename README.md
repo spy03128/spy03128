@@ -2,7 +2,7 @@
 
 
 
-**Who I am? **
+** Who I am? **
 
 - 💬 E-mail : spy03128@gmail.com | spy03128@naver.com
 - 🔭 Notion : https://noisy-windflower-17d.notion.site/5ca9dffac80a44cea0350694b1a125ce
@@ -50,7 +50,7 @@
 
 ---
 ### 💻 My project
-- 🎮 [나와,놀자](https://github.com/spy03128/NawaNolza) (2022.10.10 ~ 2022.11.21)
+- 🎮 [나와,놀자](https://github.com/spy03128/NawaNolza)(2022.10.10 ~ 2022.11.21)
   - 자율 프로젝트
 
 - 🌎 [지라포밍](https://github.com/spy03128/ZirraForming)(2022.08.22 ~ 2022.10.07)
