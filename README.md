@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi,%20I'm%20jihyeon&fontSize=45)
 
-
-
 **Who I am?**
 
 - 💬 E-mail : spy03128@naver.com
