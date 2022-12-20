@@ -29,7 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br />
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Kotlin](https://img.shields.io/badge/kotiln-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=#7F52FF")<br />
 
@@ -59,7 +59,7 @@
   
 - 🐶 [애지멍지](https://github.com/spy03128/AeJiMeongJi)(2022.07.04 ~ 2022.08.19)
   - 반려동물을 키우는 보호자들을 위한 반려동물 케어 앱
-  - SSAFY 7기 공통프로젝트 우수상(2등)
+  - SSAFY 7기 공통프로젝트 우수상
 
 - 🏡 [HappyHouse](https://github.com/HappyHouse3)(2022.05.19 ~ 2022.05.26)
   - 부동산 실거래가 정보를 통한 부동산 거래 조회 서비스
