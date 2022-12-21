@@ -43,7 +43,7 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ---
-### 📑 Career
+### 📑 Experiences
 | 일자    | 내용       | 비고  |
 | ------- | ----------------------------------------------------------------------------------- | ---------- |
 | 2022.01~12 | 삼성 청년 SW 아카데미(SSAFY) 7기                                |  [1학기 회고](https://blog.naver.com/spy03128/222762155137) |
