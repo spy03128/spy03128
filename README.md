@@ -42,6 +42,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
+---
+### 📑 Career
+| 일자    | 내용       | 비고  |
+| ------- | ----------------------------------------------------------------------------------- | ---------- |
+| 2022.01~12 | 삼성 청년 SW 아카데미(SSAFY) 7기                                |  [1학기 회고](https://blog.naver.com/spy03128/222762155137) |
+| 2022.02~11 | [삼성 청년 SW 아카데미(SSAFY)  SSAFYcial 7기](https://www.instagram.com/com.ssafy)                    |        |
 
 ---
 ### 💻 My project
@@ -76,4 +82,4 @@
   - 코로나19 통합 정보 제공 및 커뮤니티 서비스
   - 충북대학교 졸업작품 전시회 출품 작품
 
-마지막 수정일 : 2022.12.14
+마지막 수정일 : 2022.12.22
