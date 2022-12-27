@@ -11,8 +11,6 @@
 
 
 
-
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spy03128)](https://solved.ac/spy03128)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=spy03128&theme=warm)
 
@@ -83,4 +81,4 @@
   - 코로나19 통합 정보 제공 및 커뮤니티 서비스
   - 충북대학교 졸업작품 전시회 출품 작품
 
-마지막 수정일 : 2022.12.23
+마지막 수정일 : 2022.12.26
