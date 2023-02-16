@@ -2,7 +2,7 @@
 
 **Who I am?**
 
-- 💬 E-mail : spy03128@naver.com
+- 💬 E-mail : spy03128@naver.com | spy03128@gmail.com
 - 🔭 Notion : https://noisy-windflower-17d.notion.site/5ca9dffac80a44cea0350694b1a125ce
 - 🚛 velog : https://velog.io/@spy03128
 
@@ -80,4 +80,4 @@
   - 코로나19 통합 정보 제공 및 커뮤니티 서비스
   - 충북대학교 졸업작품 전시회 출품 작품
 
-마지막 수정일 : 2023.02.15
+마지막 수정일 : 2023.02.16
