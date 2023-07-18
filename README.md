@@ -11,8 +11,6 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spy03128)](https://solved.ac/spy03128)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=spy03128&theme=warm)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spy03128)](https://github.com/spy03128/github-readme-stats)
 ![spy03128's GitHub stats](https://github-readme-stats.vercel.app/api?username=spy03128&show_icons=true&theme=dracula)
